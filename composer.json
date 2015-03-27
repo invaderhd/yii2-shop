@@ -1,7 +1,7 @@
 {
-    "name": "yiisoft/yii2-app-advanced",
-    "description": "Yii 2 Advanced Application Template",
-    "keywords": ["yii2", "framework", "advanced", "application template"],
+    "name": "invaderhd/yii2-shop",
+    "description": "Yii 2 Advanced Shop Application Template",
+    "keywords": ["yii2", "framework", "advanced", "shop","application template"],
     "homepage": "http://www.yiiframework.com/",
     "type": "project",
     "license": "BSD-3-Clause",
